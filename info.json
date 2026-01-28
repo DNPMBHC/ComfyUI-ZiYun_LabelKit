@@ -1,0 +1,7 @@
+{
+  "name": "ZiYun_LabelKit",
+  "author": "ZiYun",
+  "version": "1.0.0",
+  "description": "An image loading node designed to streamline batch labeling workflows by retrieving image filenames.",
+  "git": "https://github.com/DNPMBHC/ComfyUI-ZiYun_LabelKit.git"
+}
