@@ -1,4 +1,4 @@
-# ComfyUI-ZiYu_LabelKit
+# ComfyUI-ZiYun_LabelKit
 
 一个面向 ComfyUI 的小型节点包。  
 **功能核心**：从目录批量加载图片并同时提取图片文件名（可直接返回路径列表 / 文件名列表）的工具节点。
@@ -22,4 +22,4 @@
 ### 1. 安装
 1. 把仓库克隆到 ComfyUI 的 custom_nodes 目录：
 ```bash
-git clone https://github.com/DNPMBHC/ComfyUI-ZiYu_LabelKit.git
+git clone https://github.com/DNPMBHC/ComfyUI-ZiYun_LabelKit.git
