@@ -20,7 +20,7 @@ license = {file = "LICENSE"}
 #     "Environment :: GPU :: Apple Metal",    # Apple Metal support
 # ]
 
-"numpy>=1.24", "Pillow>=9.0", "torch>=1.10  # For torch.cat compatibility"dependencies = []
+dependencies = ["numpy>=1.24", "Pillow>=9.0"]
 
 [project.urls]
 Repository = "https://github.com/DNPMBHC/ComfyUI-ZiYun_LabelKit"
