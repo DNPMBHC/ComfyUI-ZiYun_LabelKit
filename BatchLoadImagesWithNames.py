@@ -82,7 +82,7 @@ class BatchLoadImagesWithNames:
     OUTPUT_IS_LIST = (True, True, True, True, False)
 
     FUNCTION = "load_images"
-    CATEGORY = "ZiYun/工具箱"
+    CATEGORY = "ZiYun/Toolbox"
 
     @classmethod
     def IS_CHANGED(cls, **kwargs):

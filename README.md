@@ -1,14 +1,8 @@
-# ComfyUI-ZiYu_LabelKit
+# ComfyUI-ZiYun_LabelKit
 
 一个面向 ComfyUI 的小型节点包。  
 **功能核心**：从目录批量加载图片并同时提取图片文件名（可直接返回路径列表 / 文件名列表）的工具节点。
 
----
-
-## 包内主要节点（当前版本）
-- `ZiYu/工具箱/批量加载图片并提取名称`  
-  - 类名（内部）：`BatchLoadImagesWithNames`  
-  - 显示名（UI）：`批量加载图片并提取名称`  
   - 功能：从指定目录加载图片（支持 `.jpg` `.jpeg` `.png` `.webp`，可选 `.jxl`），输出：
     - `IMAGE`：单张或 batch 图像张量
     - `MASK`：单张或 batch mask
@@ -22,4 +16,4 @@
 ### 1. 安装
 1. 把仓库克隆到 ComfyUI 的 custom_nodes 目录：
 ```bash
-git clone https://github.com/DNPMBHC/ComfyUI-ZiYu_LabelKit.git
+git clone https://github.com/DNPMBHC/ComfyUI-ZiYun_LabelKit.git

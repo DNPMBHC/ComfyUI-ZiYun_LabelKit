@@ -1,7 +1,7 @@
 [project]
 name = "ziyun-labelkit"
-description = "Fix the dependency issue"
-version = "1.0.1"
+description = "Release 1.0.2"
+version = "1.0.2"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
